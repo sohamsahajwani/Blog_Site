@@ -1,0 +1,29 @@
+.cardd{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;    background-color: #A9DCE3;
+    padding: 1rem 2rem;
+    display: flex;
+    height: 27rem;
+}
+
+.card{
+    padding: 3rem 3rem;
+}
+
+.left{
+    width: 30%;
+    padding: 1rem 0;
+}
+
+.right1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.right{
+    padding: 1.5rem 2rem;
+}
+
+.content{
+    padding-top: 1rem;
+    font-size: 20.5px;
+}
